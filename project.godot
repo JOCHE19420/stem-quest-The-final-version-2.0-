@@ -1,0 +1,30 @@
+; STEM Challenge Academy
+
+config_version=5
+
+
+[application]
+
+config/name="STEM Challenge Academy"
+run/main_scene="res://scenes/MainMenu.tscn"
+
+
+[display]
+
+window/size/viewport_width=1280
+window/size/viewport_height=720
+
+window/size/window_width_override=1280
+window/size/window_height_override=720
+
+
+[autoload]
+
+GameManager="*res://scripts/game_manager.gd"
+QuizManager="*res://scripts/quiz_manager.gd"
+
+
+[rendering]
+
+renderer/rendering_method="gl_compatibility"
+renderer/rendering_method.mobile="gl_compatibility"
