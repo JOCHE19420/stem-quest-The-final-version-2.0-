@@ -1,0 +1,17 @@
+[gd_scene format=3]
+
+
+[node name="MainMenu" type="Control"]
+
+layout_mode = 3
+anchors_preset = 15
+
+
+[node name="Title" type="Label" parent="."]
+
+text = "STEM Challenge Academy"
+
+
+[node name="StartButton" type="Button" parent="."]
+
+text = "START"
