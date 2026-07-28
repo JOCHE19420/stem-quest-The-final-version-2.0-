@@ -1,0 +1,7 @@
+[gd_scene format=3]
+
+
+[node name="QuizRoom" type="Control"]
+
+layout_mode = 3
+anchors_preset = 15
