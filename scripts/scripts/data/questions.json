@@ -1,23 +1,558 @@
-SCIENCE
-1-10
+[
+    {
+        "question": "A farmer wants to improve crop growth. Which factor is most important for photosynthesis?",
+        "answers": [
+            "Sunlight",
+            "Plastic covering",
+            "Noise",
+            "Metal tools"
+        ],
+        "correct_answer": 0,
+        "explanation": "Plants use sunlight, water, and carbon dioxide to make food through photosynthesis.",
+        "category": "Science",
+        "difficulty": "Easy"
+    },
 
-TECHNOLOGY
-11-20
+    {
+        "question": "A student pushes a box across the floor. Which force slows the movement?",
+        "answers": [
+            "Gravity",
+            "Friction",
+            "Magnetism",
+            "Electricity"
+        ],
+        "correct_answer": 1,
+        "explanation": "Friction opposes motion and slows moving objects.",
+        "category": "Science",
+        "difficulty": "Easy"
+    },
 
-ENGINEERING
-21-30
+    {
+        "question": "Why do astronauts appear weightless while orbiting Earth?",
+        "answers": [
+            "There is no gravity",
+            "They are continuously falling around Earth",
+            "They lose their mass",
+            "Their suits remove gravity"
+        ],
+        "correct_answer": 1,
+        "explanation": "Astronauts experience weightlessness because they are in continuous free fall while orbiting Earth.",
+        "category": "Science",
+        "difficulty": "Hard"
+    },
 
-MATHEMATICS
-31-40{
-"question":"",
-"answers":[
-"",
-"",
-"",
-""
-],
-"correct_answer":0,
-"explanation":"",
-"category":"",
-"difficulty":""
+    {
+        "question": "A power station burns fuel to create electricity. What energy conversion occurs?",
+        "answers": [
+            "Chemical energy to electrical energy",
+            "Sound energy to light energy",
+            "Electrical energy to chemical energy",
+            "Heat energy to magnetic energy"
+        ],
+        "correct_answer": 0,
+        "explanation": "Fuel contains chemical energy that can be converted into electrical energy.",
+        "category": "Science",
+        "difficulty": "Medium"
+    },
+
+    {
+        "question": "Which instrument measures temperature?",
+        "answers": [
+            "Thermometer",
+            "Barometer",
+            "Microscope",
+            "Voltmeter"
+        ],
+        "correct_answer": 0,
+        "explanation": "A thermometer measures temperature.",
+        "category": "Science",
+        "difficulty": "Easy"
+    },
+
+    {
+        "question": "Why is clean water important?",
+        "answers": [
+            "It prevents many diseases",
+            "It creates oxygen",
+            "It increases gravity",
+            "It produces electricity"
+        ],
+        "correct_answer": 0,
+        "explanation": "Clean water reduces the spread of diseases and supports human health.",
+        "category": "Science",
+        "difficulty": "Easy"
+    },
+
+    {
+        "question": "Which material is commonly used in electrical wires?",
+        "answers": [
+            "Copper",
+            "Plastic",
+            "Wood",
+            "Glass"
+        ],
+        "correct_answer": 0,
+        "explanation": "Copper is a good conductor of electricity.",
+        "category": "Science",
+        "difficulty": "Easy"
+    },
+
+    {
+        "question": "A car changes from 20 km/h to 60 km/h. What has changed?",
+        "answers": [
+            "Acceleration",
+            "Density",
+            "Temperature",
+            "Mass"
+        ],
+        "correct_answer": 0,
+        "explanation": "Acceleration describes a change in velocity.",
+        "category": "Science",
+        "difficulty": "Medium"
+    },
+
+    {
+        "question": "Which organ controls thinking and coordination?",
+        "answers": [
+            "Heart",
+            "Brain",
+            "Lungs",
+            "Kidney"
+        ],
+        "correct_answer": 1,
+        "explanation": "The brain controls thoughts, movement, and coordination.",
+        "category": "Science",
+        "difficulty": "Easy"
+    },
+
+    {
+        "question": "Why do scientists repeat experiments?",
+        "answers": [
+            "To improve reliability",
+            "To change scientific laws",
+            "To avoid results",
+            "To remove data"
+        ],
+        "correct_answer": 0,
+        "explanation": "Repeating experiments helps confirm accurate results.",
+        "category": "Science",
+        "difficulty": "Medium",
+{
+    "question": "What does CPU stand for in a computer?",
+    "answers": [
+        "Central Processing Unit",
+        "Computer Power Utility",
+        "Central Program User",
+        "Control Processing Unit"
+    ],
+    "correct_answer": 0,
+    "explanation": "The CPU is the main processor that carries out instructions in a computer.",
+    "category": "Technology",
+    "difficulty": "Easy"
+},
+
+{
+    "question": "A school wants to protect student information online. What should they use?",
+    "answers": [
+        "Cybersecurity",
+        "More monitors",
+        "A printer",
+        "A louder speaker"
+    ],
+    "correct_answer": 0,
+    "explanation": "Cybersecurity protects computers, networks, and information from unauthorized access.",
+    "category": "Technology",
+    "difficulty": "Medium"
+},
+
+{
+    "question": "What does AI stand for?",
+    "answers": [
+        "Artificial Intelligence",
+        "Automatic Internet",
+        "Advanced Input",
+        "Applied Information"
+    ],
+    "correct_answer": 0,
+    "explanation": "Artificial Intelligence allows machines to perform tasks that normally require human intelligence.",
+    "category": "Technology",
+    "difficulty": "Easy"
+},
+
+{
+    "question": "Which language is used to create the structure of websites?",
+    "answers": [
+        "HTML",
+        "Python",
+        "C++",
+        "SQL"
+    ],
+    "correct_answer": 0,
+    "explanation": "HTML creates the structure and content of web pages.",
+    "category": "Technology",
+    "difficulty": "Easy"
+},
+
+{
+    "question": "A robot follows instructions written by a programmer. These instructions are called:",
+    "answers": [
+        "Code",
+        "Hardware",
+        "Battery",
+        "Signal"
+    ],
+    "correct_answer": 0,
+    "explanation": "Code is a set of instructions that tells computers and robots what to do.",
+    "category": "Technology",
+    "difficulty": "Easy"
+},
+
+{
+    "question": "Which device is used to store files permanently?",
+    "answers": [
+        "Hard drive",
+        "Keyboard",
+        "Monitor",
+        "Mouse"
+    ],
+    "correct_answer": 0,
+    "explanation": "Hard drives store data even when a computer is switched off.",
+    "category": "Technology",
+    "difficulty": "Easy"
+},
+
+{
+    "question": "Computers represent information using which number system?",
+    "answers": [
+        "Binary",
+        "Roman numerals",
+        "Fractions",
+        "Letters only"
+    ],
+    "correct_answer": 0,
+    "explanation": "Computers use binary, which is made of 0s and 1s.",
+    "category": "Technology",
+    "difficulty": "Medium"
+},
+
+{
+    "question": "What is an algorithm?",
+    "answers": [
+        "A step-by-step method for solving a problem",
+        "A computer screen",
+        "A battery charger",
+        "A type of cable"
+    ],
+    "correct_answer": 0,
+    "explanation": "Algorithms are ordered steps used to solve problems or complete tasks.",
+    "category": "Technology",
+    "difficulty": "Medium"
+},
+
+{
+    "question": "A GPS system uses which technology to determine location?",
+    "answers": [
+        "Satellites",
+        "Magnets",
+        "Batteries only",
+        "Speakers"
+    ],
+    "correct_answer": 0,
+    "explanation": "GPS receives signals from satellites to calculate position.",
+    "category": "Technology",
+    "difficulty": "Medium"
+},
+
+{
+    "question": "A smart home system automatically controls lights and temperature. This is an example of:",
+    "answers": [
+        "Automation",
+        "Farming",
+        "Biology",
+        "Chemistry"
+    ],
+    "correct_answer": 0,
+    "explanation": "Automation allows systems to perform tasks automatically using technology.",
+    "category": "Technology",
+    "difficulty": "Medium"
 }
+    },
+{
+    "question": "Engineers use prototypes mainly to:",
+    "answers": [
+        "Test and improve designs",
+        "Destroy products",
+        "Avoid calculations",
+        "Replace all ideas"
+    ],
+    "correct_answer": 0,
+    "explanation": "Prototypes allow engineers to test designs, find problems, and make improvements.",
+    "category": "Engineering",
+    "difficulty": "Easy"
+},
+
+{
+    "question": "Why are triangles commonly used in bridges?",
+    "answers": [
+        "They provide strength and stability",
+        "They are the most colourful shape",
+        "They create electricity",
+        "They reduce gravity"
+    ],
+    "correct_answer": 0,
+    "explanation": "Triangles distribute forces effectively, making structures stronger.",
+    "category": "Engineering",
+    "difficulty": "Easy"
+},
+
+{
+    "question": "A bridge collapses because it cannot support a heavy load. What should engineers improve?",
+    "answers": [
+        "Structural strength",
+        "The colour of the bridge",
+        "The sound system",
+        "The lighting only"
+    ],
+    "correct_answer": 0,
+    "explanation": "Engineers must improve materials, design, and structure to handle forces safely.",
+    "category": "Engineering",
+    "difficulty": "Medium"
+},
+
+{
+    "question": "A solar panel is an engineering solution that converts sunlight into:",
+    "answers": [
+        "Electrical energy",
+        "Sound energy",
+        "Chemical waste",
+        "Movement only"
+    ],
+    "correct_answer": 0,
+    "explanation": "Solar panels use photovoltaic cells to convert sunlight into electricity.",
+    "category": "Engineering",
+    "difficulty": "Easy"
+},
+
+{
+    "question": "Which material is commonly used for building strong structures?",
+    "answers": [
+        "Steel",
+        "Paper",
+        "Cotton",
+        "Plastic wrap"
+    ],
+    "correct_answer": 0,
+    "explanation": "Steel is strong and is often used in buildings, bridges, and machines.",
+    "category": "Engineering",
+    "difficulty": "Easy"
+},
+
+{
+    "question": "A machine that makes work easier by changing the amount or direction of force is called:",
+    "answers": [
+        "A simple machine",
+        "A computer virus",
+        "A chemical reaction",
+        "A living organism"
+    ],
+    "correct_answer": 0,
+    "explanation": "Simple machines such as levers and pulleys reduce the effort needed to perform tasks.",
+    "category": "Engineering",
+    "difficulty": "Medium"
+},
+
+{
+    "question": "Engineers test safety systems in cars mainly to:",
+    "answers": [
+        "Protect passengers",
+        "Increase the car's colour",
+        "Reduce the number of wheels",
+        "Remove the engine"
+    ],
+    "correct_answer": 0,
+    "explanation": "Safety testing ensures vehicles protect people during accidents.",
+    "category": "Engineering",
+    "difficulty": "Easy"
+},
+
+{
+    "question": "A water treatment plant is designed to:",
+    "answers": [
+        "Make water safer to use",
+        "Increase pollution",
+        "Remove all oxygen",
+        "Create fuel"
+    ],
+    "correct_answer": 0,
+    "explanation": "Engineering systems can clean water and make it suitable for communities.",
+    "category": "Engineering",
+    "difficulty": "Medium"
+},
+
+{
+    "question": "A bridge designer calculates forces acting on a bridge. Which STEM area is being applied?",
+    "answers": [
+        "Engineering physics",
+        "Music",
+        "Art only",
+        "History"
+    ],
+    "correct_answer": 0,
+    "explanation": "Engineers use physics to understand forces and create safe structures.",
+    "category": "Engineering",
+    "difficulty": "Hard"
+},
+
+{
+    "question": "A robot designed to help doctors in hospitals is an example of:",
+    "answers": [
+        "Biomedical engineering",
+        "Astronomy",
+        "Agriculture only",
+        "Geography"
+    ],
+    "correct_answer": 0,
+    "explanation": "Biomedical engineering combines technology and medicine to improve healthcare.",
+    "category": "Engineering",
+    "difficulty": "Hard"
+},
+{
+    "question": "A car travels 240 km in 4 hours. What is its average speed?",
+    "answers": [
+        "60 km/h",
+        "40 km/h",
+        "80 km/h",
+        "120 km/h"
+    ],
+    "correct_answer": 0,
+    "explanation": "Average speed = distance ÷ time. 240 ÷ 4 = 60 km/h.",
+    "category": "Mathematics",
+    "difficulty": "Easy"
+},
+
+{
+    "question": "A rectangular garden is 8 metres long and 5 metres wide. What is its area?",
+    "answers": [
+        "13 m²",
+        "40 m²",
+        "26 m²",
+        "80 m²"
+    ],
+    "correct_answer": 1,
+    "explanation": "Area = length × width. 8 × 5 = 40 m².",
+    "category": "Mathematics",
+    "difficulty": "Easy"
+},
+
+{
+    "question": "A bridge design uses a triangle with angles of 60° and 70°. What is the third angle?",
+    "answers": [
+        "40°",
+        "50°",
+        "60°",
+        "70°"
+    ],
+    "correct_answer": 1,
+    "explanation": "Angles in a triangle add up to 180°. 180° - 130° = 50°.",
+    "category": "Mathematics",
+    "difficulty": "Medium"
+},
+
+{
+    "question": "A scientist records temperatures: 20°C, 25°C, and 30°C. What is the average temperature?",
+    "answers": [
+        "20°C",
+        "25°C",
+        "30°C",
+        "35°C"
+    ],
+    "correct_answer": 1,
+    "explanation": "Average = (20 + 25 + 30) ÷ 3 = 25°C.",
+    "category": "Mathematics",
+    "difficulty": "Easy"
+},
+
+{
+    "question": "A robot moves 5 metres every second. How far will it travel in 8 seconds?",
+    "answers": [
+        "13 metres",
+        "35 metres",
+        "40 metres",
+        "45 metres"
+    ],
+    "correct_answer": 2,
+    "explanation": "Distance = speed × time. 5 × 8 = 40 metres.",
+    "category": "Mathematics",
+    "difficulty": "Easy"
+},
+
+{
+    "question": "A solar system has 20 panels. Each panel produces 50 watts. What is the total power produced?",
+    "answers": [
+        "100 watts",
+        "500 watts",
+        "1000 watts",
+        "2000 watts"
+    ],
+    "correct_answer": 2,
+    "explanation": "Total power = number of panels × power per panel. 20 × 50 = 1000 watts.",
+    "category": "Mathematics",
+    "difficulty": "Medium"
+},
+
+{
+    "question": "A box has a length of 3 m, width of 2 m, and height of 4 m. What is its volume?",
+    "answers": [
+        "9 m³",
+        "12 m³",
+        "24 m³",
+        "36 m³"
+    ],
+    "correct_answer": 2,
+    "explanation": "Volume = length × width × height. 3 × 2 × 4 = 24 m³.",
+    "category": "Mathematics",
+    "difficulty": "Medium"
+},
+
+{
+    "question": "A computer program has a 75% success rate. Out of 100 tests, how many are expected to succeed?",
+    "answers": [
+        "25",
+        "50",
+        "75",
+        "100"
+    ],
+    "correct_answer": 2,
+    "explanation": "75% of 100 is 75.",
+    "category": "Mathematics",
+    "difficulty": "Easy"
+},
+
+{
+    "question": "Solve: 3x + 5 = 20. What is x?",
+    "answers": [
+        "3",
+        "5",
+        "10",
+        "15"
+    ],
+    "correct_answer": 1,
+    "explanation": "Subtract 5: 3x = 15. Divide by 3: x = 5.",
+    "category": "Mathematics",
+    "difficulty": "Medium"
+},
+
+{
+    "question": "A factory produces 150 products in 5 hours. How many products are produced per hour?",
+    "answers": [
+        "20",
+        "25",
+        "30",
+        "50"
+    ],
+    "correct_answer": 2,
+    "explanation": "Production rate = total products ÷ time. 150 ÷ 5 = 30 products per hour.",
+    "category": "Mathematics",
+    "difficulty": "Medium"
+}
+]
